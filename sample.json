@@ -1,4 +1,4 @@
-var buses = {
+{
   "type": "FeatureCollection",
   "features": [
     {
